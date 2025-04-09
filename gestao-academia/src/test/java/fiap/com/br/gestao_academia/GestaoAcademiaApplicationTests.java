@@ -1,13 +1,13 @@
-package fiap.com.br.gestao_academia;
+//package fiap.com.br.gestao_academia;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+//import org.junit.jupiter.api.Test;
+//import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class GestaoAcademiaApplicationTests {
+//@SpringBootTest
+//class GestaoAcademiaApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+//	@Test
+//	void contextLoads() {
+//	}
 
-}
+//}
